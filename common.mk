@@ -178,8 +178,8 @@ PRODUCT_PACKAGES += \
     android.hardware.drm@1.3.vendor
 
 # Doze
-PRODUCT_PACKAGES += \
-    SamsungDoze
+#PRODUCT_PACKAGES += \
+ #   SamsungDoze
 
 # fastbootd
 PRODUCT_PACKAGES += \
